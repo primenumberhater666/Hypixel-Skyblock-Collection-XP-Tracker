@@ -2,3 +2,5 @@ Note: This bot is not affiliated with, endorsed by, or associated with Hypixel o
 but it is an independent project and not officially connected to Hypixel or its developers. Use of this bot is at your own discretion and risk.
 
 SkyCrypt API: https://sky.shiiyu.moe/api
+
+Some parts of the code were inspired by Bankhier (https://www.youtube.com/watch?v=IsTXGO3LvkQ) and some other community members. 
