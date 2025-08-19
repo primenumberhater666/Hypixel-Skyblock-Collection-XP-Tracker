@@ -207,7 +207,8 @@ def begin():
  
         print("=======================")
  
-        #Sleep for a reasonable time untill new API data is available (3-4 minutes)
+        #Sleep for a reasonable time until new API data is available (3-4 minutes)
         time.sleep(240)
 begin() ### discord integration removed since bot is private, will release at a later date hopefully###
+
  
